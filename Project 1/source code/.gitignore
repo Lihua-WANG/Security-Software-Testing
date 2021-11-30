@@ -1,0 +1,8 @@
+# Used to track which Java class files need recompilation
+.depcache
+
+# The compiled Java class files
+classes
+
+# Stores traces from running test suites
+results
